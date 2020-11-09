@@ -16,5 +16,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@3.1.1
       with:
         ftp-server: ftp://47.95.206.69/docs/
-        ftp-username: ${{ secrets.FTP_USERNAME }}
+        ftp-username: ftpuser
         ftp-password: ${{ secrets.FTP_PASSWORD }}
+        git-ftp-args: --dry-run
