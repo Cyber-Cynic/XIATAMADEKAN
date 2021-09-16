@@ -1,6 +1,61 @@
-- 随笔
-  - [山月记](shanyueji.md)
-  - [如何一键永久将菜鸟驿站踢出你的生活](cainiao.md)
+- 一图胜千言
+  - [图解技术](pic_tech.md)
+  - [美好世界](pic_all.md)
 
-- 本站
-  - [关于](about.md)
+- 计算机科学
+  - [优秀博文推荐](cs_rec.md)
+  - [为什么如此设计](cs_why.md)
+  - [English](cs_english.md)
+  - [C#](cs_csharp.md)
+  - [.NET Framework](cs_dotnetfx.md)
+  - [.NET Core](cs_dotnet.md)
+  - [Java](cs_java.md)
+  - [Go](cs_go.md)
+  - [JavaScript](cs_js.md)
+  - [React](cs_react.md)
+  - [PowerShell](cs_ps.md)
+  - [Docker](cs_docker.md)
+  - [DataBase](cs_db.md)
+  - [Computer](cs_computer.md)
+  - [OS](cs_os.md)
+  - [Network](cs_net.md)
+  - [DataStructure](cs_data.md)
+
+- 善用佳软
+  - [youtube-dl youtube 下载神器](software_youtubedl.md)
+  - [Free Download Manager 万能下载](software_freedownload.md)
+  - [KinhDOwn BD 网盘加速器](software_kinhdown.md)
+  - [VLC 视频播放器](software_vlcmedia.md)
+  - [图压 图片压缩](software_tuya.md)
+  - [ImageGlass 看图软件](software_imageglass.md)
+  - [LightShot 截图软件](software_lightshot.md)
+  - [文件大小检查软件](software_treesize.md)
+
+- 推荐网站
+  - [在线抠图去背景](site_removebg.md)
+  - [在线压缩图片](site_squoosh.md)
+  - [在线旧照片上色](site_colorize.md)
+  - [在线流程图](site_code2flow.md)
+  - [在线思维导图](site_mindmaps.md)
+  - [在线画手绘图](site_draw.md)
+  - [在线数据结构可视化](site_algorithms.md)
+  - [coder to hacker](site_hacker.md)
+  - [The True Size](site_truesize.md)
+  - [Github Shields](site_shields.md)
+  - [Flash 模拟](site_flash.md)
+  - [编程语言语法对比](site_langcompare.md)
+  - [js 执行可视化学习](site_jsv.md)
+  - [代码截图美化](site_codecarbon.md)
+  - [代码巨型注释](site_codecomment.md)
+  - [PS cs2官方正版带序列号](site_pscs2.md)
+
+- 漫画技术图书
+  - [欧姆社学习漫画全册](book_oumu.md)
+  - [跟Wakaba酱一起学Git使用](book_wakaba_git.md)
+  - [跟Wakaba酱一起学网站制作](book_wakaba_web.md)
+
+- 本站技术
+  - [About](doc_about.md)
+  - [VS Code + PowerShell Remote Edit](doc_vscode.md)
+  - [VS Code + SSH Remote Edit](doc_vscodessh.md)
+  - [SVN HOOKS](doc_svnhook.md)
