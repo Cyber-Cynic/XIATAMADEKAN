@@ -5,7 +5,6 @@
 - 计算机科学
   - [基础知识](cs_what.md)
   - [为什么如此设计](cs_why.md)
-  - [English](cs_english.md)
   - [C#](cs_csharp.md)
   - [.NET Framework](cs_dotnetfx.md)
   - [.NET Core](cs_dotnet.md)
@@ -25,6 +24,11 @@
   - [HTTP](cs_http.md)
   - [RFC](cs_rfc.md)
   - [DataStructure](cs_data.md)
+
+- 英语学习
+  - [语音语法](en_res.md)
+  - [1分钟精听](en_1min.md)
+  - [影视图文](en_media.md)
 
 - 软件推荐
   - [软件](software.md)

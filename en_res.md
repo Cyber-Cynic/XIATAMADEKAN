@@ -11,6 +11,3 @@
 英语语法：https://www.youtube.com/playlist?list=PLiRHe7F8P0-0ykWSiVY9Ia431TB-HzQm0
 
 所有句子都由“什么怎么样”组成，也就是“主语+谓语”，主语就是人或者物，谓语就是动作（动作不是狭义上的动作，而是发生了什么事情）
-
-## 英语听力训练
-听力耳朵：https://www.youtube.com/channel/UCTYQzAi6YOcgv2mkzsfzmpA/playlists
