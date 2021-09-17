@@ -1,4 +1,4 @@
-﻿## Go语法
+## Go语法
 https://tour.go-zh.org/
 
 ## 微软带你学Go

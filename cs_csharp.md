@@ -1,5 +1,5 @@
 ### CLR via C#
-chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=http%3A%2F%2Fsd.blackball.lv%2Flibrary%2FCLR_via_CSharp_(Jeffrey_Richter_4th_Edition).pdf
+http://sd.blackball.lv/library/CLR_via_CSharp_(Jeffrey_Richter_4th_Edition).pdf
 
 ### C# 历史
 https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history

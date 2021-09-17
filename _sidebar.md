@@ -3,6 +3,7 @@
   - [美好世界](pic_all.md)
 
 - 计算机科学
+  - [基础知识](cs_what.md)
   - [为什么如此设计](cs_why.md)
   - [English](cs_english.md)
   - [C#](cs_csharp.md)

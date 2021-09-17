@@ -1,4 +1,4 @@
-﻿## CLR架构
+## CLR架构
 The Common Language Runtime in the .NET Framework is the Virtual Machine component that handles program execution for various languages such as C#, F#, Visual Basic .NET, etc. The managed execution environment is provided by giving various services such as memory management, security handling, exception handling, garbage collection, thread management, etc.
 https://www.geeksforgeeks.org/architecture-of-common-language-runtime-clr/
 

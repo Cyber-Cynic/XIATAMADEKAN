@@ -1,4 +1,4 @@
-﻿## Linux命令缩写介绍
+## Linux命令缩写介绍
 https://en.wikiversity.org/wiki/Linux/Basic_commands
 
 ## Linux的“一切皆文件”？
