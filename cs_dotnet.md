@@ -1,3 +1,6 @@
+## Dotnet Core的项目结构变化
+https://www.cnblogs.com/tiger-wang/p/14267942.html
+
 ## ASP.NET 5 基本原理
 https://docs.microsoft.com/en-us/aspnet/core/fundamentals/?view=aspnetcore-5.0&tabs=windows
 

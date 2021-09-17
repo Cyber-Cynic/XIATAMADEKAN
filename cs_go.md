@@ -13,3 +13,7 @@ https://programming-idioms.org/cheatsheet/Java/Go
 ## Go 高级
 https://draveness.me/golang/
 
+## Go语言之父谈内存模型
+https://research.swtch.com/mm
+
+
