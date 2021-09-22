@@ -6,9 +6,13 @@ I wonder how many accidents <blank>I’ve had</blank> in my life. I’ve had a f
 </audio>
 
 ### Actors
-
 Being an actor must be great. I really wish I could act. I’d love to have the confidence to act <blank>in front of</blank> people. Being a member of the <blank>audience</blank> at the theatre is great, but acting on stage is better. I wonder what it’s like to be a movie star. I think you need to be beautiful or handsome to be a successful Hollywood or Bollywood actor. They all look great. Actors are very lucky. They get paid <blank>huge amounts</blank> of money to do what they love doing. My favourite actors are <blank>all dead</blank> now. I really like the actors in the <blank>old black</blank> and white movies. They all looked so cool. Actors in the old days seemed to be more <blank>glamorous</blank> than today’s actors. The best thing about being an actor is that all of your friends are <blank>famous</blank> too.
 
 <audio controls loop src="https://user-images.githubusercontent.com/8761991/133731271-723b7be3-07e9-4385-853c-fc92394a2ef4.mp4">
 </audio>
 
+### Advertising
+What is advertising? Is it telling the truth or is it making things look better than they really are? Or is it lying? Companies pay a lot of money for adverts. Some of the ads you see in <blank>glossy</blank> magazines look like art. The commercials on TV look like mini movies. Do they really change our <blank>behaviour</blank>? Do adverts make you buy things? I think some advertising is a form of lying. Is BMW really “The <blank>ultimate</blank> driving machine” like they say in their ads? British Airways used to say they were “The world’s favourite airline,” but had to stop saying it because it wasn’t true. Personally, I get tired of watching ads on television. They always <blank>interrupt</blank> a good programme. I like ads in magazines. They’re usually quite interesting.
+
+<audio controls loop src="https://user-images.githubusercontent.com/8761991/134269446-163b7981-970f-4c0b-a23b-027610a5e63e.mp4">
+</audio>
