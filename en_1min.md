@@ -16,3 +16,9 @@ What is advertising? Is it telling the truth or is it making things look better 
 
 <audio controls loop src="https://user-images.githubusercontent.com/8761991/134269446-163b7981-970f-4c0b-a23b-027610a5e63e.mp4">
 </audio>
+
+### Advice
+I don’t know what I would do without my friends’ advice. They’ve all given me so much good advice over the years. It’s sometimes very difficult to make <blank>decisions</blank> on your own. Listening to advice can be great for helping you make the right decision. The greatest piece of advice I’ve received was from my father. He told me I can do anything in life if I <blank>try hard</blank>. He was right. I am now <blank>passing</blank> on his advice to my own children. Right now I need some advice on money. My <blank>financial</blank> advisors are telling me to be very careful. That’s very sound advice. I would advise anyone to do the same. Someone asked me the other day about the worst piece of advice I’ve ever had. I couldn’t answer. I don’t think I’ve had any really bad advice.
+
+<audio controls loop src="https://user-images.githubusercontent.com/8761991/134609097-db96a4ed-9e89-4eeb-9e90-c2474bd82264.mp4">
+</audio>
