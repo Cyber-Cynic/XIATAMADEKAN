@@ -22,3 +22,9 @@ I don’t know what I would do without my friends’ advice. They’ve all given
 
 <audio controls loop src="https://user-images.githubusercontent.com/8761991/134609097-db96a4ed-9e89-4eeb-9e90-c2474bd82264.mp4">
 </audio>
+
+### Airplanes
+Airplanes are amazing. How does something so big and heavy get off the ground? I’m always amazed at how the millions of different parts work together. Travelling by airplane is always a wonderful experience. I don’t care whether <blank>economy class</blank> is cramped and has no space. I like playing with the <blank>in-flight</blank> entertainment system, especially now they have all the latest movies. I also love airplane food. Many of my friends say it’s <blank>disgusting</blank>, but I love it. I often ask the passenger <blank>next to me</blank> if I can have the <blank>dessert or roll</blank> they don’t want. The only thing I don’t like about planes is <blank>turbulence</blank>. When the airplane hits those <blank>air pockets</blank>, I always worry we’ll crash. But I once read that <blank>turbulence</blank> has never caused an airplane to crash.
+
+<audio controls loop src="https://user-images.githubusercontent.com/8761991/137666674-3fb61a2b-533a-4b8a-abe9-da11c3eff2ec.mp4">
+</audio>
