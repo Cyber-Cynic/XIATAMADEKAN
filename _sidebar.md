@@ -27,6 +27,7 @@
 
 - 英语学习
   - [语音语法](en_res.md)
+  - [听力材料](en_listening.md)
   - [1分钟精听A](en_1min_a.md)
   - [影视图文](en_media.md)
 
