@@ -28,3 +28,9 @@ Airplanes are amazing. How does something so big and heavy get off the ground? I
 
 <audio controls loop src="https://user-images.githubusercontent.com/8761991/137666674-3fb61a2b-533a-4b8a-abe9-da11c3eff2ec.mp4">
 </audio>
+
+### Alcohol
+I hate alcohol. I really don’t understand how or why people drink it. The smell of alcohol on people’s breath is disgusting. It’s expensive and it gives you a bad headache. I drank when I was much younger, but I haven’t touched a drop for years. I hated hangovers so I decided to stop drinking altogether. I have a much better time without alcohol. people say they need to drink to relax. They drink and just act and look stupid. Their face goes red and they can’t walk in a straight line. Alcohol is also the most damaging drug in society. That’s what I think, anyway. Alcohol causes many illnesses, traffic accidents, fights and domestic violence. If you banned alcohol, people would be healthier, richer and have a better family life.
+
+<audio controls loop src="https://user-images.githubusercontent.com/8761991/139188810-cb8bfe7e-8faf-47c0-9108-42fa84694012.mp4">
+</audio>
