@@ -11,7 +11,6 @@
   - [Java](cs_java.md)
   - [Go](cs_go.md)
   - [C](cs_clang.md)
-  - [Bash](cs_bash.md)
   - [JavaScript](cs_js.md)
   - [React](cs_react.md)
   - [PowerShell](cs_ps.md)
