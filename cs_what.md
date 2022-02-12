@@ -29,16 +29,16 @@ SHA-1（英语：Secure Hash Algorithm 1，中文名：安全散列算法1）是
 
 
 常见解决哈希表冲突  
-1. 再散列法
+1. 再散列法  
 把散列后的结果再进行散列，直到找到一个不冲突的地址
 
-2. 线性探测
+2. 线性探测  
 顺序查看表中下一单元，直到找出一个空单元或查遍全表  
 
 ![hashtable](https://static.coderbridge.com/img/techbridge/images/kdchang/hash-table-collision.png)
 
-3. 链地址法
+3. 链地址法  
 ![hashtable](https://static.coderbridge.com/img/techbridge/images/kdchang/hash-table-chaining.png)
 
-4. 建立公共溢出区
+4. 建立公共溢出区  
 将哈希表分为基本表和溢出表两部分，凡是和基本表发生冲突的元素，一律填入溢出表
