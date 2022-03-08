@@ -37,7 +37,6 @@
 - 资源推荐
   - [优秀博文推荐](blog.md)
   - [图书推荐](book.md)
-  - [影视推荐](video.md)
 
 - 关于本站
   - [About](doc_about.md)

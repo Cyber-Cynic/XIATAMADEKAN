@@ -1,3 +1,9 @@
+## C++
+![algorithms](https://user-images.githubusercontent.com/8761991/157171150-76fd620c-728f-4fe9-911f-634343d6b863.png)
+
+## CORS
+![FE0VcRPX0AUghWA](https://user-images.githubusercontent.com/8761991/157171197-8e375b1b-be65-456f-8391-b70c3996f70b.jpg)
+
 ## Linux命令
 ![linuxcmd](https://pbs.twimg.com/media/EyBZY0UUUAEiI2x?format=jpg&name=large)
 下载：https://assets.hongkiat.com/uploads/cheatsheet-wallpapers-for-designers-developers/original/linux-wallpaper.jpg
