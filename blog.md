@@ -1,3 +1,7 @@
+## 从你输入网址，到看到网页——详解中间发生的过程
+当我们在浏览器里输入一个网址，URL由三部分组成：资源类型、存放资源的主机域名、资源文件名。也可认为由4部分组成：协议、主机、端口、路径...
+https://www.cnblogs.com/huansky/p/13955620.html
+
 ## CLR架构
 The Common Language Runtime in the .NET Framework is the Virtual Machine component that handles program execution for various languages such as C#, F#, Visual Basic .NET, etc. The managed execution environment is provided by giving various services such as memory management, security handling, exception handling, garbage collection, thread management, etc.
 https://www.geeksforgeeks.org/architecture-of-common-language-runtime-clr/

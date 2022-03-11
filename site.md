@@ -1,8 +1,20 @@
+## 命令速查
+https://quickref.me/ 
+
+## 配色
+https://colorhunt.co/
+
+## SQLite在线管理
+https://sqliteonline.com/
+
 ## git可视化学习
 https://learngitbranching.js.org/
 
 ## CVE查询
 http://cve.mitre.org/index.html
+
+## Cipher Suites info
+https://ciphersuite.info/
 
 ## Cipher Suites
 https://wiki.mozilla.org/Security/Cipher_Suites

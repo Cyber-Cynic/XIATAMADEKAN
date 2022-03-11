@@ -1,3 +1,10 @@
+## Linux命令
+![Kali_Linux_Cheat_Sheet](https://user-images.githubusercontent.com/8761991/157822884-ab31b034-54a0-4a82-9a9f-3795dc0a8d36.png)
+
+## Linux kernal map
+![linux-kernel-map](https://user-images.githubusercontent.com/8761991/157822911-ac17957a-60f5-4c26-8a0d-2a758e8fa697.jpg)
+原图：https://makelinux.github.io/kernel/map/
+
 ## C++
 ![algorithms](https://user-images.githubusercontent.com/8761991/157171150-76fd620c-728f-4fe9-911f-634343d6b863.png)
 
@@ -7,6 +14,7 @@
 ## Linux命令
 ![linuxcmd](https://pbs.twimg.com/media/EyBZY0UUUAEiI2x?format=jpg&name=large)
 下载：https://assets.hongkiat.com/uploads/cheatsheet-wallpapers-for-designers-developers/original/linux-wallpaper.jpg
+
 ## 正则表达式
 ![reg](https://pbs.twimg.com/media/EyDbyS7UYAcIK9J?format=jpg&name=large)
 
@@ -56,7 +64,6 @@
 ## SQL 执行过程
 ![mysql_base](https://user-images.githubusercontent.com/8761991/109122468-9c33e580-7783-11eb-8e58-27e7027d4e17.png)  
 详情：https://www.infoq.cn/article/PKzT75BPcryCYJ_VuWrR
-
 
 ## 冒泡排序
 ![Eiq-_YkWAAABrMK](https://user-images.githubusercontent.com/8761991/99492686-fa914100-29a8-11eb-9c9e-9b84cbbcd149.jpg)
