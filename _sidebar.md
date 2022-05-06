@@ -38,4 +38,4 @@
   - [图书推荐](/resource/share/book.md)
 
 - 关于本站
-  - [About](doc_about.md)
+  - [About](/resource/doc/doc_about.md)
