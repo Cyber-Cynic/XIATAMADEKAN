@@ -1,3 +1,12 @@
+## Nginx配置生成器
+https://github.com/digitalocean/nginxconfig.io
+
+## 在线数学工具
+https://www.geogebra.org/
+
+## 在线查看海底光缆
+https://www.submarinecablemap.com/
+
 ## 命令速查
 https://quickref.me/ 
 
