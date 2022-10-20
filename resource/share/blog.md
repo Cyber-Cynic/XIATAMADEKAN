@@ -1,3 +1,7 @@
+## IIS Services: HTTP.sys, W3SVC, WAS, W3WP, oh my!
+When client makes an HTTP request to IIS, there are many layers of drivers and services it travels through. In this blog, I wanted to give a high level overview of the major layers showing how they fit altogether...
+https://techcommunity.microsoft.com/t5/iis-support-blog/iis-services-http-sys-w3svc-was-w3wp-oh-my/ba-p/287856
+
 ## 从你输入网址，到看到网页——详解中间发生的过程
 当我们在浏览器里输入一个网址，URL由三部分组成：资源类型、存放资源的主机域名、资源文件名。也可认为由4部分组成：协议、主机、端口、路径...
 https://www.cnblogs.com/huansky/p/13955620.html
