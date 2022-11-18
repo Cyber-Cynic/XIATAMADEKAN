@@ -26,7 +26,6 @@
 
 - 英语学习
   - [语音语法](/resource/en/en_res.md)
-  - [ReadWorks](/resource/en/en_readworks.md)
   - [1分钟精听A](/resource/en/en_1min_a.md)
 
 - 软件推荐
