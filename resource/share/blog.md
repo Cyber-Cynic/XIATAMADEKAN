@@ -1,3 +1,8 @@
+## 什么是向量数据库？
+We’re in the midst of the AI revolution. It’s upending any industry it touches, promising great innovations - but it also introduces new challenges. Efficient data processing has become more crucial than ever for applications that involve large language models, generative AI, and semantic search...
+
+https://www.pinecone.io/learn/vector-database/
+
 ## IIS Services: HTTP.sys, W3SVC, WAS, W3WP, oh my!
 When client makes an HTTP request to IIS, there are many layers of drivers and services it travels through. In this blog, I wanted to give a high level overview of the major layers showing how they fit altogether...
 
