@@ -1,3 +1,8 @@
+## 如何借助Embedding做PDF问答？
+https://zhuanlan.zhihu.com/p/613155165 
+
+https://twitter.com/dotey/status/1655760599345770502 
+
 ## 什么是向量数据库？
 We’re in the midst of the AI revolution. It’s upending any industry it touches, promising great innovations - but it also introduces new challenges. Efficient data processing has become more crucial than ever for applications that involve large language models, generative AI, and semantic search...
 
