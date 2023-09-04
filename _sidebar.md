@@ -28,5 +28,17 @@
   - [博文推荐](/resource/share/blog.md)
   - [美好世界](/resource/pic/pic_all.md)
 
+- 让青春继续 第一部
+  - [第一季 初恋故事](/resource/youth/1-1.md)
+  - [第二季 在那灰暗日子里](/resource/youth/1-2.md)
+  - [第三季 最珍贵年轻的心](/resource/youth/1-3.md)
+
+- 让青春继续 第二部 最后时刻
+  - [第一季 羊城岁月](/resource/youth/2-1.md)
+  - [第一季 沪江不眠夜](/resource/youth/2-2.md)
+  - [第一季 青春如歌](/resource/youth/2-3.md)
+  - [第一季 羊城岁月续集](/resource/youth/2-4.md)
+  - [第一季 再见理想](/resource/youth/2-5.md)
+
 - 关于本站
   - [About](/resource/doc/doc_about.md)
