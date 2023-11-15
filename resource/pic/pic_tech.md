@@ -1,5 +1,6 @@
 ## URL
-![url-explained](https://github.com/nimezul/XIATAMADEKAN/assets/8761991/78f7c02a-8df5-4d37-a624-0c749dcda413)
+![url-explained](https://github.com/nimezul/XIATAMADEKAN/assets/8761991/78f7c02a-8df5-4d37-a624-0c749dcda413)  
+介绍：https://ittavern.com/url-explained-the-fundamentals/   
 
 ## CDSSO
 ![cas_flow_diagram](https://github.com/Cyber-Cynic/XIATAMADEKAN/assets/8761991/916572f4-0ae7-4c19-b9ce-3740da6af17c)
