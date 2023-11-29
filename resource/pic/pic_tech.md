@@ -1,3 +1,11 @@
+## TOTP
+![totp](https://github.com/nimezul/XIATAMADEKAN/assets/8761991/0a709ca4-03e4-420d-8f42-2b16f6192b9b)
+
+
+## Spring Bean声明周期
+![Spring-Bean-Life-cycle-Flow](https://github.com/nimezul/XIATAMADEKAN/assets/8761991/084eca59-2122-42d1-9929-4cce3bdc4391)   
+参考：https://bootcamptoprod.com/spring-bean-life-cycle-explained/
+
 ## URL
 ![url-explained](https://github.com/nimezul/XIATAMADEKAN/assets/8761991/78f7c02a-8df5-4d37-a624-0c749dcda413)  
 介绍：https://ittavern.com/url-explained-the-fundamentals/   
