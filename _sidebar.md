@@ -1,4 +1,5 @@
 - 计算机科学
+  - [美好世界](/resource/pic/pic_all.md)
   - [图解技术](/resource/pic/pic_tech.md)
   - [基础知识](/resource/cs/cs_what.md)
   - [为什么如此设计](/resource/cs/cs_why.md)
@@ -7,7 +8,7 @@
   - [.NET Core](/resource/cs/cs_dotnet.md)
   - [Java](/resource/cs/cs_java.md)
   - [Go](/resource/cs/cs_go.md)
-  - [C语言](/resource/cs/cs_clang.md)
+  - [C](/resource/cs/cs_clang.md)
   - [JavaScript](/resource/cs/cs_js.md)
   - [React](/resource/cs/cs_react.md)
   - [PowerShell](/resource/cs/cs_ps.md)
@@ -21,12 +22,12 @@
   - [RFC](/resource/cs/cs_rfc.md)
   - [数据结构](/resource/cs/cs_data.md)
 
+<!---
 - 资源共享
   - [英语学习](/resource/share/english.md)
   - [软件推荐](/resource/share/software.md)
   - [网站推荐](/resource/share/site.md)
   - [博文推荐](/resource/share/blog.md)
-  - [美好世界](/resource/pic/pic_all.md)
 
 - 让青春继续
   - [第一季 初恋故事](/resource/youth/1-1.md)
@@ -39,6 +40,7 @@
   - [第三季 青春如歌](/resource/youth/2-3.md)
   - [第四季 羊城岁月续集](/resource/youth/2-4.md)
   - [第五季 再见理想](/resource/youth/2-5.md)
+-->
 
 - 关于本站
   - [About](/resource/doc/doc_about.md)

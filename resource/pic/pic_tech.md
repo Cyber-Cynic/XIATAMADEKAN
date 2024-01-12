@@ -1,8 +1,10 @@
+## K8S  
+![1_nHbVIh84m4Rw8_hDPwfDZg](https://github.com/nimezul/XIATAMADEKAN/assets/8761991/1023a923-c648-4d91-ab01-acd327586f23)  
+
 ## TOTP
 ![totp](https://github.com/nimezul/XIATAMADEKAN/assets/8761991/0a709ca4-03e4-420d-8f42-2b16f6192b9b)
 
-
-## Spring Bean声明周期
+## Spring Bean生命周期
 ![Spring-Bean-Life-cycle-Flow](https://github.com/nimezul/XIATAMADEKAN/assets/8761991/084eca59-2122-42d1-9929-4cce3bdc4391)   
 参考：https://bootcamptoprod.com/spring-bean-life-cycle-explained/
 
