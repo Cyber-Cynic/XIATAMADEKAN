@@ -1,3 +1,6 @@
+## Java垃圾回收器
+![java-garbage-collector-types](https://github.com/nimezul/XIATAMADEKAN/assets/8761991/c382b7de-4618-42c6-9ff4-7d848e834a01)  
+
 ## K8S  
 ![1_nHbVIh84m4Rw8_hDPwfDZg](https://github.com/nimezul/XIATAMADEKAN/assets/8761991/1023a923-c648-4d91-ab01-acd327586f23)  
 
