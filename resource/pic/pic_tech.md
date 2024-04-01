@@ -1,3 +1,7 @@
+## 数据库
+![GIlIEqhbgAELoyz](https://github.com/nimezul/XIATAMADEKAN/assets/8761991/89c0ba0f-b1af-4e0e-9bf1-c4d7c5435f27)  
+
+
 ## Java垃圾回收器
 ![java-garbage-collector-types](https://github.com/nimezul/XIATAMADEKAN/assets/8761991/c382b7de-4618-42c6-9ff4-7d848e834a01)  
 
