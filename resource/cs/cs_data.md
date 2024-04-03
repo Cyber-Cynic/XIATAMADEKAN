@@ -1,6 +1,7 @@
 ### 学习博客
-https://muchen.fun/categories/
-https://github.com/chefyuan/algorithm-base
+https://muchen.fun/categories/  
+
+https://github.com/chefyuan/algorithm-base  
 
 ### 什么是数据结构？
 数据结构是相互之间存在一种或多种特定关系的数据元素的集合。

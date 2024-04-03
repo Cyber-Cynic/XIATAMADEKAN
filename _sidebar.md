@@ -8,7 +8,6 @@
   - [基础知识](/resource/cs/cs_what.md)
   - [为什么如此设计](/resource/cs/cs_why.md)
   - [C#](/resource/cs/cs_csharp.md)
-  - [.NET Framework](/resource/cs/cs_dotnetfx.md)
   - [.NET Core](/resource/cs/cs_dotnet.md)
   - [Java](/resource/cs/cs_java.md)
   - [Go](/resource/cs/cs_go.md)

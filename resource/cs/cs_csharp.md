@@ -4,15 +4,6 @@ http://sd.blackball.lv/library/CLR_via_CSharp_(Jeffrey_Richter_4th_Edition).pdf
 ### C# 历史
 https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history
 
-### C# 9 新特性
-https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9
-
-### C# 8 新特性
-https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8
-
-### C# 7 新特性
-https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7
-
 ### C# 基础概念
 https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/introduction
 
