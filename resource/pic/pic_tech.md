@@ -1,3 +1,6 @@
+## k8s trouble shooting  
+![fae60444184ca7bd8c3698d866c24617](https://github.com/nimezul/XIATAMADEKAN/assets/8761991/b782cdec-d5fb-4a27-80ff-cbcb93aabcf4)  
+
 ## 数据库
 ![GIlIEqhbgAELoyz](https://github.com/nimezul/XIATAMADEKAN/assets/8761991/89c0ba0f-b1af-4e0e-9bf1-c4d7c5435f27)  
 
